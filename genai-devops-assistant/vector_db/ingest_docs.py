@@ -1,0 +1,1 @@
+# FAISS vector ingestion placeholder
